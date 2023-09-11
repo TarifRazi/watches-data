@@ -1,0 +1,104 @@
+
+[
+    {
+      "id": 1,
+      "name": "Rolex Submariner",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "name": "Omega Speedmaster Professional",
+      "price": 5500
+    },
+    {
+      "id": 3,
+      "name": "Patek Philippe Calatrava",
+      "price": 25000
+    },
+    {
+      "id": 4,
+      "name": "Tag Heuer Carrera",
+      "price": 4500
+    },
+    {
+      "id": 5,
+      "name": "Seiko Prospex",
+      "price": 800
+    },
+    {
+      "id": 6,
+      "name": "Citizen Eco-Drive",
+      "price": 300
+    },
+    {
+      "id": 7,
+      "name": "Bulova Precisionist",
+      "price": 600
+    },
+    {
+      "id": 8,
+      "name": "Fossil Nate",
+      "price": 150
+    },
+    {
+      "id": 9,
+      "name": "Casio G-Shock Rangeman",
+      "price": 250
+    },
+    {
+      "id": 10,
+      "name": "Tissot Le Locle",
+      "price": 800
+    },
+    {
+      "id": 11,
+      "name": "Longines Heritage Classic",
+      "price": 1500
+    },
+    {
+      "id": 12,
+      "name": "Hamilton Khaki Field",
+      "price": 600
+    },
+    {
+      "id": 13,
+      "name": "Breguet Classique",
+      "price": 30000
+    },
+    {
+      "id": 14,
+      "name": "Panerai Luminor",
+      "price": 9000
+    },
+    {
+      "id": 15,
+      "name": "Audemars Piguet Royal Oak",
+      "price": 35000
+    },
+    {
+      "id": 16,
+      "name": "IWC Portuguese",
+      "price": 9500
+    },
+    {
+      "id": 17,
+      "name": "Girard-Perregaux 1945 Vintage",
+      "price": 18000
+    },
+    {
+      "id": 18,
+      "name": "Zenith El Primero",
+      "price": 8500
+    },
+    {
+      "id": 19,
+      "name": "Breitling Navitimer",
+      "price": 7500
+    },
+    {
+      "id": 20,
+      "name": "Chopard Mille Miglia",
+      "price": 5500
+    }
+  ]
+  
